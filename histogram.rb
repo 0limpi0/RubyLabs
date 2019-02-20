@@ -1,3 +1,10 @@
+# Histogram
+
+
+=begin
+  TODO 
+  - COMMENT EACH LINE OF THE CODE\
+=end
 puts "Enter a phrase you'd like to analyze: "
 text = gets.chomp
 
